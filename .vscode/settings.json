@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.dae": "3dformat",
+    "*.obj": "3dformat",
+    "*.kml": "xml",
+    "*.md": "markdown",
+    "cstdlib": "cpp"
+  }
+}
