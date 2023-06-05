@@ -1,7 +1,7 @@
 /*
  * @Author: zyw_Wayne
  * @Date: 2023-06-05 17:37:26
- * @LastEditTime: 2023-06-05 17:49:39
+ * @LastEditTime: 2023-06-05 17:59:26
  */
 #include <iostream>
 #include <math.h>
@@ -11,7 +11,7 @@ int main()
 {
 
   // love heart function:(x^2+y^2-a)^3 - x^2 y^3 = 0
-  int a = 1.25;
+  double a = 0.85;
   // define bound
   double bound = 1.3 * sqrt(a);
 
